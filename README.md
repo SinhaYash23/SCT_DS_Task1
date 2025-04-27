@@ -7,10 +7,10 @@ Welcome to my submission for Task 1 of the Data Science Internship at SkillCraft
 The dataset used for this task is **world_population_dataset**. This dataset contains records of population from the year 2001 to 2022.
 
 ## Tools and Libraries used
-VS Code
-Pandas
-Numpy
-Matplotlip & Seaborn for visualization
+1. VS Code
+2. Pandas
+3. Numpy
+4. Matplotlip & Seaborn for visualization
 
 
 ## Exploratory Data Analysis (EDA)
